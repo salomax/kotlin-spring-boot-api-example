@@ -1,2 +1,1 @@
-# kotlin-spring-boot-api-example
-Simple API with Spring Boot and Kotlin
+# Simple RESTful API using Spring Boot and Kotlin
