@@ -1,4 +1,4 @@
-package salomax.kotlin.api.Kotlin.API
+package salomax.kotlin.api
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
